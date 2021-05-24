@@ -16,4 +16,4 @@ How to setup the website?
 
 How to run the website?
 1. Select the VirtualHost that you created 
-   and for the website to load. 
+   and wait for the website to load. 
