@@ -15,4 +15,4 @@ How to setup the website?
 7. Then restart the DNS of the wamp server.
 
 How to run the website?
-1. Select the VirtualHost that you created and for the website to load. 
+1. Select the VirtualHost that you created and wait for the website to load. 
