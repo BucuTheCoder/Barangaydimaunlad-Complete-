@@ -104,8 +104,8 @@
                      <label>Age:</label> <input id="inputform" type = "text" name = "age" />
                     <br>
                      <label>Gender:</label> 
-                    <input  type="radio" name="gender" value="male"> Male 
-                    <input type="radio" name="gender" value="female"> Female
+                    <input  type="radio" name="gender" value="Male"> Male 
+                    <input type="radio" name="gender" value="Female"> Female
                     <br>
                      <label>Type:</label> 
                      <input type="radio" name="type" value="boarder"> Boarder 
