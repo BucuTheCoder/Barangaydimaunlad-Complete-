@@ -1,5 +1,6 @@
 <?php 
 	include('Database/results.php');
+	include('Database/sessioncheck.php');
  ?>
 
 <!----Author/s: 
